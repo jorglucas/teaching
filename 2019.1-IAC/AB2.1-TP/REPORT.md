@@ -1,6 +1,6 @@
 # Identificação
 
-* Página do repositório do trabalho ([link GitHub](https://github.com/jorglucas/teaching))
+* Página do repositório do trabalho ([link GitHub](https://github.com/jorglucas/teaching/tree/master/2019.1-IAC/AB2.1-TP))
 
 * Discente 1
 	* Nome: Carllos Eduardo Ferreira Lopes
